@@ -1,0 +1,13 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "A little birthday message site",
+  "main": "index.html",
+  "repository": "git@github.com:mrunkel/birthday.git",
+  "author": "marc@runkel.org",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lessc": "^1.0.2"
+  }
+}
